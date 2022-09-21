@@ -1,0 +1,14 @@
+README.md
+setup.py
+src/__init__.py
+src/get_data.py
+src/load.py
+src/split_data.py
+src/train_and_evaluate.py
+src1.egg-info/PKG-INFO
+src1.egg-info/SOURCES.txt
+src1.egg-info/dependency_links.txt
+src1.egg-info/top_level.txt
+tests/__init__.py
+tests/conftest.py
+tests/test_conf.py
